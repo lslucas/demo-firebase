@@ -1,0 +1,22 @@
+{
+  "name": "authdemo-firebase",
+  "private": true,
+  "dependencies": {
+    "email-validator": "^2.0.4"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --mode=development"
+  },
+  "devDependencies": {
+    "boostrap": "^2.0.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "compression-webpack-plugin": "^1.1.11",
+    "postcss-loader": "^2.1.5",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
