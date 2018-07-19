@@ -13,4 +13,4 @@ $ npm install
 $ npm start
 ```
 
-Note: You should create your own firebase app on [https://console.firebase.google.com](https://console.firebase.google.com). Then change the keys on `lib/config.js`.
+Note: You should create your own firebase app on [https://console.firebase.google.com](https://console.firebase.google.com). Then, change the keys on `lib/config.js`.
