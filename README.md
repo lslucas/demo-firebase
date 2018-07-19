@@ -9,6 +9,7 @@ This app requires [Node.js](https://nodejs.org/) and [Webpack 4.12+](https://www
 Install the dependencies and devDependencies and start the server.
 
 ```sh
+$ git clone git@github.com:lslucas/demo-firebase.git
 $ cd demo-firebase
 $ npm install
 $ npm start
